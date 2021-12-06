@@ -1,0 +1,41 @@
+package com.javacourse.intro;
+
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
+public class GcdAndLcm {
+
+	public static final Logger logger = LoggerFactory.getLogger(GcdAndLcm.class);
+
+	private int number1 = 48;
+	private int number2 = 18;
+
+//		logger.debug("The greatest common devider is: " + gcd(number1, number2));
+//		logger.debug("Least common multiple is: " + lcm(number1, number2));
+
+	public GcdAndLcm() {
+		super();
+	}
+
+	public GcdAndLcm(int number1, int number2) {
+		super();
+		this.number1 = number1;
+		this.number2 = number2;
+	}
+
+	public static int gcd(int a, int b) {
+		do {
+			if (a > b) {
+				a -= b;
+			} else {
+				b -= a;
+			}
+		} while (a != b);
+
+		return a;
+	}
+
+	public static int lcm(int a, int b) {
+		return (a * b) / gcd(a, b);
+	}
+}

@@ -1,0 +1,18 @@
+package com.javacourse.intro;
+
+import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.fail;
+
+import org.junit.Test;
+
+class GcdAndLcmTest {
+	
+	@Test
+	void testGcd() {
+		GcdAndLcm calculator = new GcdAndLcm();
+		
+		assertEquals(6, calculator.gcd(18, 48));
+		
+	}
+
+}

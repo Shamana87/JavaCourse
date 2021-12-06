@@ -1,0 +1,10 @@
+package com.javacourse.intro;
+
+public class Lcm {
+
+	private int number1;
+	private int number2;
+	
+	
+	
+}
