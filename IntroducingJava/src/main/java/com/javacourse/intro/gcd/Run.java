@@ -5,7 +5,7 @@ import org.slf4j.LoggerFactory;
 
 public class Run {
 
-	private static final Logger logger = LoggerFactory.getLogger(GcdAndLcm.class);
+	private static final Logger logger = LoggerFactory.getLogger(Run.class);
 	
 	public static void main(String[] args) {
 		
