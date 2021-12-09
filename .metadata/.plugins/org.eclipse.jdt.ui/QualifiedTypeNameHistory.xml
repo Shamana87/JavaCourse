@@ -1,21 +1,38 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.lang.System"/>
-    <fullyQualifiedTypeName name="org.junit.Assert"/>
     <fullyQualifiedTypeName name="org.junit.Test"/>
     <fullyQualifiedTypeName name="org.junit.BeforeClass"/>
     <fullyQualifiedTypeName name="com.javacourse.intro.GcdAndLcm"/>
     <fullyQualifiedTypeName name="org.slf4j.helpers.NOPLoggerFactory"/>
     <fullyQualifiedTypeName name="com.javacourse.intro.gcd.Run"/>
-    <fullyQualifiedTypeName name="ch.qos.logback.classic.Logger"/>
-    <fullyQualifiedTypeName name="org.slf4j.LoggerFactory"/>
-    <fullyQualifiedTypeName name="org.slf4j.Logger"/>
     <fullyQualifiedTypeName name="java.lang.reflect.Array"/>
     <fullyQualifiedTypeName name="org.junit.Before"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="com.javacourse.intro.arrayProcessing.MinElementIndexResult"/>
-    <fullyQualifiedTypeName name="java.util.Arrays"/>
     <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="junit.framework.Assert"/>
+    <fullyQualifiedTypeName name="ch.qos.logback.core.read.ListAppender"/>
+    <fullyQualifiedTypeName name="ch.qos.logback.classic.spi.ILoggingEvent"/>
+    <fullyQualifiedTypeName name="com.javacourse.intro.arrayProcessingTest.MemoryAppender"/>
+    <fullyQualifiedTypeName name="ch.qos.logback.classic.Level"/>
+    <fullyQualifiedTypeName name="com.javacourse.intro.arrayProcessingTest.ArrayProcessingTest"/>
+    <fullyQualifiedTypeName name="ch.qos.logback.classic.Logger"/>
+    <fullyQualifiedTypeName name="ch.qos.logback.classic.LoggerContext"/>
+    <fullyQualifiedTypeName name="org.assertj.core.api.Assertions"/>
     <fullyQualifiedTypeName name="com.javacourse.intro.arrayProcessing.ArrayProcessing"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="com.javacourse.intro.arraysMedian.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.NumberFormatException"/>
+    <fullyQualifiedTypeName name="com.javacourse.intro.arraysMedianTest.ArraysMedianTest"/>
+    <fullyQualifiedTypeName name="org.junit.Assert"/>
+    <fullyQualifiedTypeName name="com.javacourse.intro.arraysMedian.ReadingData"/>
+    <fullyQualifiedTypeName name="com.javacourse.intro.arraysMedian.TransformingData"/>
+    <fullyQualifiedTypeName name="com.javacourse.intro.arraysMedian.ArraysMedian"/>
+    <fullyQualifiedTypeName name="com.javacourse.intro.arraysMedian.ArrayScanner"/>
+    <fullyQualifiedTypeName name="org.slf4j.LoggerFactory"/>
+    <fullyQualifiedTypeName name="org.slf4j.Logger"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="com.javacourse.intro.arraysQuickSort.QuickSort"/>
 </qualifiedTypeNameHistroy>
