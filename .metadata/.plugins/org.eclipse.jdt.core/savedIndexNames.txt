@@ -4,7 +4,6 @@ INDEX VERSION 1.131+C:\Users\Shamana\Desktop\java course\Solutions\.metadata\.pl
 1662184329.index
 3778437885.index
 551376849.index
-286337489.index
 771623741.index
 1865797976.index
 2202159646.index
