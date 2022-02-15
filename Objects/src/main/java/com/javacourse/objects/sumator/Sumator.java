@@ -20,8 +20,7 @@ public class Sumator {
 	public String sum(String firstNum, String secondNum) {
 		
 		Double first = Double.parseDouble(firstNum);
-		Double second = Double.parseDouble(secondNum); 
-		System.out.println(String.valueOf(first + second));
+		Double second = Double.parseDouble(secondNum);
 		
 		return String.valueOf(first + second);
 	}
